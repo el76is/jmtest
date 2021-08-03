@@ -41,7 +41,8 @@ public class Calculator{
                 break;
               case "-":
                 result = value1 - value2;
-                break;                                               case "*":
+                break;
+              case "*":
                 result = value1 * value2;
                 break;
               case "/":
